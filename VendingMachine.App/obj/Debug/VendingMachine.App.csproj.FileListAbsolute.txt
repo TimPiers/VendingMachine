@@ -1,0 +1,10 @@
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.App.exe.config
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.App.exe
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.App.pdb
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csprojAssemblyReference.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Form1.resources
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Properties.Resources.resources
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.GenerateResource.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.CoreCompileInputs.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.exe
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.pdb
