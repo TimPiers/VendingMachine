@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Models", "1. Models", "{64B0DB55-7376-4DB1-BAA0-3B745889A120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Domain.Models", "..\VendingMachine.Domain.Models\VendingMachine.Domain.Models.csproj", "{F175E0BE-552A-4370-A751-314CBABE9001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F175E0BE-552A-4370-A751-314CBABE9001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F175E0BE-552A-4370-A751-314CBABE9001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F175E0BE-552A-4370-A751-314CBABE9001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F175E0BE-552A-4370-A751-314CBABE9001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F175E0BE-552A-4370-A751-314CBABE9001} = {64B0DB55-7376-4DB1-BAA0-3B745889A120}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAA4F80-6ED1-4464-AACD-78C3315B7E67}
+	EndGlobalSection
+EndGlobal
