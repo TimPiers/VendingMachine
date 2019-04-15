@@ -1,0 +1,9 @@
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.deps.json
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csprojAssemblyReference.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CoreCompileInputs.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfoInputs.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfo.cs
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb

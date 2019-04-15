@@ -1,0 +1,4 @@
+﻿CREATE SCHEMA [Machine]
+GO
+CREATE SCHEMA [Admin]
+GO
