@@ -1,0 +1,6 @@
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dacpac
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dll
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.pdb
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.sqlprojAssemblyReference.cache
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.dll
+D:\_LEERJAAR 2\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb
