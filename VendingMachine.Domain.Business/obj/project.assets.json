@@ -178,30 +178,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hugo\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business\\VendingMachine.Domain.Business.csproj",
+      "projectUniqueName": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business\\VendingMachine.Domain.Business.csproj",
       "projectName": "VendingMachine.Domain.Business",
-      "projectPath": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business\\VendingMachine.Domain.Business.csproj",
-      "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business\\obj\\",
+      "projectPath": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business\\VendingMachine.Domain.Business.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

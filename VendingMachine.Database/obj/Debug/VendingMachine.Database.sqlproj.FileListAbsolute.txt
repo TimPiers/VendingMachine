@@ -14,3 +14,13 @@ C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\D
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\predeploy.sql
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.dll
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb
+D:\Projecten\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dacpac
+D:\Projecten\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dll
+D:\Projecten\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.pdb
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.sqlprojAssemblyReference.cache
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\Model.xml
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\refactor.xml
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\postdeploy.sql
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\predeploy.sql
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.dll
+D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb

@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="VendingMachine.Database.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\HUGO\SOURCE\REPOS\TIMPIERS\VENDINGMACHINE\VENDINGMACHINE.DATABASE\OBJ\DEBUG\VENDINGMACHINE.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="D:\PROJECTEN\VENDINGMACHINE\VENDINGMACHINE.DATABASE\OBJ\DEBUG\VENDINGMACHINE.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="VendingMachine.Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -50,7 +50,7 @@
 					<Element Type="SqlIndexedColumnSpecification">
 						<Relationship Name="Column">
 							<Entry>
-								<References Name="[Machine].[Voorraad_Geld].[Id]" />
+								<References Name="[Machine].[Bestellingen].[Id]" />
 							</Entry>
 						</Relationship>
 					</Element>
@@ -58,7 +58,7 @@
 			</Relationship>
 			<Relationship Name="DefiningTable">
 				<Entry>
-					<References Name="[Machine].[Voorraad_Geld]" />
+					<References Name="[Machine].[Bestellingen]" />
 				</Entry>
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="3" />
@@ -69,7 +69,7 @@
 					<Element Type="SqlIndexedColumnSpecification">
 						<Relationship Name="Column">
 							<Entry>
-								<References Name="[Machine].[Producten].[Id]" />
+								<References Name="[Machine].[Voorraad_Geld].[Id]" />
 							</Entry>
 						</Relationship>
 					</Element>
@@ -77,7 +77,7 @@
 			</Relationship>
 			<Relationship Name="DefiningTable">
 				<Entry>
-					<References Name="[Machine].[Producten]" />
+					<References Name="[Machine].[Voorraad_Geld]" />
 				</Entry>
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="4" />
@@ -107,7 +107,7 @@
 					<Element Type="SqlIndexedColumnSpecification">
 						<Relationship Name="Column">
 							<Entry>
-								<References Name="[Machine].[Bestellingen].[Id]" />
+								<References Name="[Machine].[Producten].[Id]" />
 							</Entry>
 						</Relationship>
 					</Element>
@@ -115,7 +115,7 @@
 			</Relationship>
 			<Relationship Name="DefiningTable">
 				<Entry>
-					<References Name="[Machine].[Bestellingen]" />
+					<References Name="[Machine].[Producten]" />
 				</Entry>
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="6" />
@@ -145,7 +145,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="6" />
+						<AttachedAnnotation Disambiguator="3" />
 					</Element>
 				</Entry>
 				<Entry>
@@ -268,7 +268,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="4" />
+						<AttachedAnnotation Disambiguator="6" />
 					</Element>
 				</Entry>
 				<Entry>
@@ -345,7 +345,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="3" />
+						<AttachedAnnotation Disambiguator="4" />
 					</Element>
 				</Entry>
 				<Entry>
