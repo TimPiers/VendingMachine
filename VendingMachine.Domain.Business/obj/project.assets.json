@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "VendingMachine.Domain.Business.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VendingMachine.Domain.Business.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VendingMachine.Domain.Business.Contracts.dll": {}
+        }
       }
     }
   },
@@ -170,11 +180,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "VendingMachine.Domain.Business.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../VendingMachine.Domain.Business.Contracts/VendingMachine.Domain.Business.Contracts.csproj",
+      "msbuildProject": "../VendingMachine.Domain.Business.Contracts/VendingMachine.Domain.Business.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "VendingMachine.Domain.Business.Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -210,7 +226,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj": {
+              "projectPath": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,3 +7,15 @@ D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstanda
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfo.cs
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.deps.json
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csprojAssemblyReference.cache
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CoreCompileInputs.cache
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfoInputs.cache
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfo.cs
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CopyComplete
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb

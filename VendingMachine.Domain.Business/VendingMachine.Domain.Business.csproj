@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VendingMachine.Domain.Business.Contracts\VendingMachine.Domain.Business.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>

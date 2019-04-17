@@ -2,7 +2,13 @@
 
 namespace VendingMachine.Repository
 {
-    public class BaseRepository
+    public abstract class BaseRepository<TEntity> where TEntity : class
     {
+
+        public MachineContext CreateContext()
+        {
+            return new MachineContext();
+        }
+
     }
-}
+ }

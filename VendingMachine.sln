@@ -22,20 +22,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Database", "7. Database"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "VendingMachine.Database", "VendingMachine.Database\VendingMachine.Database.sqlproj", "{55A1279F-7FA1-4E08-A1F6-C036BB944746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Domain.Models", "VendingMachine.Domain.Models\VendingMachine.Domain.Models.csproj", "{8D50D07B-58E3-48C6-8D6F-483594AC5CE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine.Domain.Models", "VendingMachine.Domain.Models\VendingMachine.Domain.Models.csproj", "{8D50D07B-58E3-48C6-8D6F-483594AC5CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Domain.Business", "VendingMachine.Domain.Business\VendingMachine.Domain.Business.csproj", "{19ADEA9C-58A0-48C4-AB03-A6475C14D8F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine.Domain.Business", "VendingMachine.Domain.Business\VendingMachine.Domain.Business.csproj", "{19ADEA9C-58A0-48C4-AB03-A6475C14D8F0}"
 	ProjectSection(ProjectDependencies) = postProject
 		{8D50D07B-58E3-48C6-8D6F-483594AC5CE7} = {8D50D07B-58E3-48C6-8D6F-483594AC5CE7}
 		{46F1D17C-79AF-4192-B197-B357A9E6AF80} = {46F1D17C-79AF-4192-B197-B357A9E6AF80}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Domain.Business.Contracts", "VendingMachine.Domain.Business.Contracts\VendingMachine.Domain.Business.Contracts.csproj", "{46F1D17C-79AF-4192-B197-B357A9E6AF80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine.Domain.Business.Contracts", "VendingMachine.Domain.Business.Contracts\VendingMachine.Domain.Business.Contracts.csproj", "{46F1D17C-79AF-4192-B197-B357A9E6AF80}"
 	ProjectSection(ProjectDependencies) = postProject
 		{8D50D07B-58E3-48C6-8D6F-483594AC5CE7} = {8D50D07B-58E3-48C6-8D6F-483594AC5CE7}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Repository", "VendingMachine.Repository\VendingMachine.Repository.csproj", "{A3E98519-76A6-4FE3-BD93-028992DD3050}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine.Repository", "VendingMachine.Repository\VendingMachine.Repository.csproj", "{A3E98519-76A6-4FE3-BD93-028992DD3050}"
 	ProjectSection(ProjectDependencies) = postProject
 		{8D50D07B-58E3-48C6-8D6F-483594AC5CE7} = {8D50D07B-58E3-48C6-8D6F-483594AC5CE7}
 	EndProjectSection
