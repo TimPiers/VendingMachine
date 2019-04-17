@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/VendingMachine/v15/Server/sqlite3/db.lock
+/VendingMachine.Database/VendingMachine.Database.dbmdl
+/VendingMachine.Database/VendingMachine.Database.jfm

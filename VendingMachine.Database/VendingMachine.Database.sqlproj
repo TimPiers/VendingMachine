@@ -60,5 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Schemas.sql" />
+    <Build Include="Producten.sql" />
+    <Build Include="Voorraad_Producten.sql" />
+    <Build Include="Voorraad_Geld.sql" />
+    <Build Include="Bestellingen.sql" />
   </ItemGroup>
 </Project>
