@@ -18,7 +18,8 @@ namespace VendingMachine.App
         public Form1()
         {
             InitializeComponent();
-            GetProducts();
+            //Comment out function to avoid database issue
+            //GetProducts();
         }
         
         public void GetProducts()
