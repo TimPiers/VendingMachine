@@ -19,3 +19,19 @@ D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard
 D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CopyComplete
 D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
 D:\Projecten\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.deps.json
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Repository.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Repository.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csprojAssemblyReference.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CoreCompileInputs.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfoInputs.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.AssemblyInfo.cs
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CopyComplete
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb

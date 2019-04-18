@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="VendingMachine.Database.dll" />
-			<Metadata Name="FileName" Value="D:\PROJECTEN\VENDINGMACHINE\VENDINGMACHINE.DATABASE\OBJ\DEBUG\VENDINGMACHINE.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="D:\_LEERJAAR 2\TIMPIERS\VENDINGMACHINE\VENDINGMACHINE.DATABASE\OBJ\DEBUG\VENDINGMACHINE.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="VendingMachine.Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="D:\Projecten\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -294,10 +294,10 @@
 						<Relationship Name="TypeSpecifier">
 							<Entry>
 								<Element Type="SqlTypeSpecifier">
-									<Property Name="Precision" Value="5" />
+									<Property Name="Precision" Value="53" />
 									<Relationship Name="Type">
 										<Entry>
-											<References ExternalSource="BuiltIns" Name="[decimal]" />
+											<References ExternalSource="BuiltIns" Name="[float]" />
 										</Entry>
 									</Relationship>
 								</Element>
@@ -349,7 +349,7 @@
 					</Element>
 				</Entry>
 				<Entry>
-					<Element Type="SqlSimpleColumn" Name="[Machine].[Voorraad_Geld].[Hoeveelheden]">
+					<Element Type="SqlSimpleColumn" Name="[Machine].[Voorraad_Geld].[Hoeveelheid]">
 						<Property Name="IsNullable" Value="False" />
 						<Relationship Name="TypeSpecifier">
 							<Entry>

@@ -7,3 +7,17 @@ D:\_LEERJAAR 2\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csprojAssemblyReference.cache
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.dll
 D:\_LEERJAAR 2\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.deps.json
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csprojAssemblyReference.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csproj.CoreCompileInputs.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.AssemblyInfoInputs.cache
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.AssemblyInfo.cs
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csproj.CopyComplete
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.dll
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.pdb

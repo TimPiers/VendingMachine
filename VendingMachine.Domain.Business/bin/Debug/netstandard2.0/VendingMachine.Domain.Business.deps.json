@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "cfe1dc2a80602aef150a12815387068463a61a0d"
+    "signature": "7a53938183d3d775f29bd2110fd1351fb68b1b49"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,11 +9,25 @@
     ".NETStandard,Version=v2.0/": {
       "VendingMachine.Domain.Business/1.0.0": {
         "dependencies": {
+          "EntityFramework": "6.2.0",
           "NETStandard.Library": "2.0.3",
-          "VendingMachine.Domain.Business.Contracts": "1.0.0"
+          "VendingMachine.Domain.Business.Contracts": "1.0.0",
+          "VendingMachine.Repository": "1.0.0"
         },
         "runtime": {
           "VendingMachine.Domain.Business.dll": {}
+        }
+      },
+      "EntityFramework/6.2.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.2.61023.0"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.2.61023.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -23,8 +37,26 @@
         }
       },
       "VendingMachine.Domain.Business.Contracts/1.0.0": {
+        "dependencies": {
+          "VendingMachine.Domain.Models": "1.0.0"
+        },
         "runtime": {
           "VendingMachine.Domain.Business.Contracts.dll": {}
+        }
+      },
+      "VendingMachine.Domain.Models/1.0.0": {
+        "runtime": {
+          "VendingMachine.Domain.Models.dll": {}
+        }
+      },
+      "VendingMachine.Repository/1.0.0": {
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "VendingMachine.Domain.Business.Contracts": "1.0.0",
+          "VendingMachine.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachine.Repository.dll": {}
         }
       }
     }
@@ -34,6 +66,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFramework/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "path": "entityframework/6.2.0",
+      "hashPath": "entityframework.6.2.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
@@ -50,6 +89,16 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "VendingMachine.Domain.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachine.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachine.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

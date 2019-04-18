@@ -12,7 +12,7 @@ namespace VendingMachine.Repository
         public DbSet<Product> Products { get; set; }
 
         public MachineContext()
-           : base(@"Data Source=(LocalDb)\SoftwareDevelopment;Initial Catalog=VendingMachine;User Id=DevUser;Password=root;MultipleActiveResultSets=true;Connect Timeout=60;")
+           : base(@"Data Source=(LocalDb)\SoftwareDevelopment;Initial Catalog=VendingMachine;User Id=VendingUser;Password=VendingUser;MultipleActiveResultSets=true;Connect Timeout=60;")
         {
 
         }

@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "VendingMachine.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VendingMachine.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VendingMachine.Domain.Models.dll": {}
+        }
       }
     }
   },
@@ -170,47 +180,53 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "VendingMachine.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../VendingMachine.Domain.Models/VendingMachine.Domain.Models.csproj",
+      "msbuildProject": "../VendingMachine.Domain.Models/VendingMachine.Domain.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "VendingMachine.Domain.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Tim\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj",
+      "projectUniqueName": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj",
       "projectName": "VendingMachine.Domain.Business.Contracts",
-      "projectPath": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projecten\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\obj\\",
+      "projectPath": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\VendingMachine.Domain.Business.Contracts.csproj",
+      "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
+      "outputPath": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Business.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj": {
+              "projectPath": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

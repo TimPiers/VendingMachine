@@ -7,5 +7,8 @@ namespace VendingMachine.Domain.Business
 {
     public class VoorraadService : IVoorraadService
     {
+
+
+
     }
 }
