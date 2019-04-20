@@ -8,7 +8,7 @@ namespace VendingMachine.Domain.Models
     {
 
         public int Id { get; set; }
-        public double Hoeveelheid { get; set; }
+        public double Valuta { get; set; }
         public int Kwantiteit { get; set; }
 
     }

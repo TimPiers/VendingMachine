@@ -20,6 +20,10 @@ namespace VendingMachine.App
             InitializeComponent();
             //Comment out function to avoid database issue
             //GetProducts();
+            //GeldService gs = new GeldService();
+            
+            //Prijs product, inworp geld
+            //gs.GetChange(1.75F, 2.0F);
         }
         
         public void GetProducts()

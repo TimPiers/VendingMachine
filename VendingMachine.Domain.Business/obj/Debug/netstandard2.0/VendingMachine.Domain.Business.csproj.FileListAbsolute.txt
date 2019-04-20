@@ -35,3 +35,7 @@ D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.csproj.CopyComplete
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.dll
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Repository.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Repository.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.pdb

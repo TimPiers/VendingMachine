@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Machine] (Schema)
+       [Machine].[Bestellingen] (Table)
+       [Machine].[Voorraad_Producten] (Table)
+       [Machine].[Producten] (Table)
+       [Machine].[Voorraad_Geld] (Table)
+       [Machine].[FK_Bestellingen_Producten] (Foreign Key)
+       [Machine].[FK_Voorraad_Producten_Producten] (Foreign Key)
+
+** Supporting actions

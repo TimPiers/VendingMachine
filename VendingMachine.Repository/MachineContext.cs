@@ -24,8 +24,8 @@ namespace VendingMachine.Repository
             // Mapping to diffrent tables
             modelBuilder.Entity<Product>().ToTable("Producten", "Machine");
             modelBuilder.Entity<Bestelling>().ToTable("Bestellingen", "Machine");
-            modelBuilder.Entity<Voorraad>().ToTable("Voorraad_Geld", "Machine");
-            modelBuilder.Entity<Geld>().ToTable("Voorraad_Producten", "Machine");
+            modelBuilder.Entity<Geld>().ToTable("Voorraad_Geld", "Machine");
+            modelBuilder.Entity<Voorraad>().ToTable("Voorraad_Producten", "Machine");
 
 
         }

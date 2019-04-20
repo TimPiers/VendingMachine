@@ -28,3 +28,6 @@ D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business.Contracts\
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business.Contracts\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.csproj.CopyComplete
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business.Contracts\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.dll
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.Domain.Business.Contracts\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business.Contracts\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.dll
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business.Contracts\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.pdb
+D:\Projecten\VendingMachine\VendingMachine.Domain.Business.Contracts\obj\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.csproj.CopyComplete
