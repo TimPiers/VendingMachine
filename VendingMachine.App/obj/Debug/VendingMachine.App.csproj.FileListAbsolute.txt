@@ -241,10 +241,11 @@ D:\Projecten\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.Domain.B
 D:\Projecten\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.Repository.pdb
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csprojAssemblyReference.cache
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.exe.config
-D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Form1.resources
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Properties.Resources.resources
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.GenerateResource.cache
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.CoreCompileInputs.cache
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.CopyComplete
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.exe
 D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.pdb
+D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.App.resources
+D:\Projecten\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.ReturnProductApp.resources

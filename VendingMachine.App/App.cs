@@ -13,15 +13,15 @@ using VendingMachine.Domain.Models;
 
 namespace VendingMachine.App
 {
-    public partial class Form1 : Form
+    public partial class App : Form
     {
-        public Form1()
+        public App()
         {
             InitializeComponent();
             //Comment out function to avoid database issue
             //GetProducts();
             //GeldService gs = new GeldService();
-            
+
             //Prijs product, inworp geld
             //gs.GetChange(1.75F, 2.0F);
         }
@@ -53,6 +53,15 @@ namespace VendingMachine.App
                 MessageBox.Show(ex.Message);
             }
             return null;
+        }
+
+        private void testProductBtn_Click(object sender, EventArgs e)
+        {
+            ProductService ps = new ProductService();
+            //Maak product scherm aan met eerste product in db
+            ReturnProductApp rpa = new ReturnProductApp(ps.GetProducts()[0]);
+            //Toon scherm
+            rpa.Show();
         }
     }
 }
