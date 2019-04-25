@@ -12,7 +12,6 @@ D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\bin\Debug\VendingMachi
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.App.exe
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\bin\Debug\VendingMachine.App.pdb
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csprojAssemblyReference.cache
-D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Form1.resources
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.Properties.Resources.resources
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.GenerateResource.cache
 D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.CoreCompileInputs.cache
@@ -371,3 +370,7 @@ C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.csproj.CopyComplete
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.exe
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.pdb
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.App.resources
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.BuyProduct.resources
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.ProductUC.resources
+D:\_LEERJAAR 2\TimPiers\VendingMachine\VendingMachine.App\obj\Debug\VendingMachine.App.ReturnProductApp.resources

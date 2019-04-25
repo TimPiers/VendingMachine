@@ -51,6 +51,7 @@ namespace VendingMachine.App
             SoundPlayer simpleSound = new SoundPlayer("../../Resources/product.wav");
             simpleSound.Play();
             productImage.Hide();
+            button1.Hide();
         }
     }
 }

@@ -178,23 +178,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hugo\\.nuget\\packages\\": {},
+    "C:\\Users\\Tim\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj",
+      "projectUniqueName": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj",
       "projectName": "VendingMachine.Domain.Models",
-      "projectPath": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj",
-      "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugo\\Source\\Repos\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\obj\\",
+      "projectPath": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\VendingMachine.Domain.Models.csproj",
+      "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
+      "outputPath": "D:\\_LEERJAAR 2\\TimPiers\\VendingMachine\\VendingMachine.Domain.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

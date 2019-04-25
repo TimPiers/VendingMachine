@@ -15,12 +15,14 @@ namespace VendingMachine.App
     public partial class ProductUC : UserControl
     {
 
-        private int tag;
-        private double prijs;
+        public int tag;
+        public double prijs;
+        public Product p;
 
         public ProductUC(Product product)
         {
             InitializeComponent();
+            p = product;
             tag = product.Id;
             prijs = product.Prijs;
             if (tag < 10)

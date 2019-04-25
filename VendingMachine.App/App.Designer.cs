@@ -51,7 +51,6 @@
             this.pnlProducts.Name = "pnlProducts";
             this.pnlProducts.Size = new System.Drawing.Size(686, 497);
             this.pnlProducts.TabIndex = 1;
-
             // 
             // btn1
             // 
@@ -202,6 +201,7 @@
             this.btnGo.Size = new System.Drawing.Size(75, 65);
             this.btnGo.TabIndex = 14;
             this.btnGo.UseVisualStyleBackColor = false;
+            this.btnGo.Click += new System.EventHandler(this.btnGo_Click);
             // 
             // App
             // 
