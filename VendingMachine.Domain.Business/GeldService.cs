@@ -20,9 +20,9 @@ namespace VendingMachine.Domain.Business
         {
             List<Geld> voorraad = geldRepository.GetVoorraadGeld();
             List<Geld> change = new List<Geld>();
-            double remainingPrice = price;
+            double remainingPrice = insert - price;
             int slot = 0;
-            while (remainingPrice != 0)
+            while (remainingPrice >= 0.001)
             {
                 double x = remainingPrice / ((double)voorraad[slot].Valuta);
                 if (voorraad[slot].Kwantiteit - x <= 0)

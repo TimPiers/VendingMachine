@@ -15,6 +15,9 @@ namespace VendingMachine.App
 {
     public partial class App : Form
     {
+
+        private List<ProductUC> products;
+
         int i = 0;
         int j = 0;
         public App()
@@ -55,6 +58,7 @@ namespace VendingMachine.App
             }
             pnlProducts.Controls.Clear();
             pnlProducts.Controls.AddRange(productList.ToArray());
+            products = productList;
         }
 
         // Functie voor het omzetten van byte array naar image class
@@ -99,6 +103,11 @@ namespace VendingMachine.App
             lblChoice.Font = new Font("Microsoft Sans Serif", 40, FontStyle.Italic);
         }
 
-
+        private void btnGo_Click(object sender, EventArgs e)
+        {
+            ProductUC pp = products.Find(x => x.tag == Int32.Parse(lblChoice.Text));
+            BuyProduct buyProduct = new BuyProduct(pp);
+            buyProduct.Show();
+        }
     }
 }
