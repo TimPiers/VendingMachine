@@ -85,70 +85,20 @@ namespace VendingMachine.App
             }
         }
 
-        private void btn1_Click(object sender, EventArgs e)
+        private void btn_Click(object sender, EventArgs e)
         {
-            lblChoice.Text = lblChoice.Text + btn1.Text;
+            Button button = (Button)sender;
+            lblChoice.Text = lblChoice.Text + button.Text;
             length();
         }
 
-        private void btn2_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn2.Text;
-            length();
-        }
-
-        private void btn3_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn3.Text;
-            length();
-        }
-
-        private void btn4_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn4.Text;
-            length();
-        }
-
-        private void btn5_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn5.Text;
-            length();
-        }
-
-        private void btn6_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn6.Text;
-            length();
-        }
-
-        private void btn7_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn7.Text;
-            length();
-        }
-
-        private void btn8_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn8.Text;
-            length();
-        }
-
-        private void btn9_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn9.Text;
-            length();
-        }
-
-        private void btn0_Click(object sender, EventArgs e)
-        {
-            lblChoice.Text = lblChoice.Text + btn0.Text;
-            length();
-        }
-
+       
         private void btnClear_Click(object sender, EventArgs e)
         {
             lblChoice.Text = "";
             lblChoice.Font = new Font("Microsoft Sans Serif", 40, FontStyle.Italic);
         }
+
+
     }
 }
