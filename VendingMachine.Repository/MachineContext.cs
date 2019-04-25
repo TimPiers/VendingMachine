@@ -9,7 +9,8 @@ namespace VendingMachine.Repository
     public class MachineContext : DbContext
     {
 
-        public DbSet<Product> Products { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
+        public virtual DbSet<Voorraad> Voorraads { get; set; }
 
         public MachineContext()
            : base(@"Data Source=(LocalDb)\SoftwareDevelopment;Initial Catalog=VendingMachine;User Id=VendingUser;Password=VendingUser;MultipleActiveResultSets=true;Connect Timeout=60;")

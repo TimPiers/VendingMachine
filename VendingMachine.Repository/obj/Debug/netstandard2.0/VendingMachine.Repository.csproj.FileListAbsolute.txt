@@ -35,3 +35,17 @@ D:\Projecten\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\V
 D:\Projecten\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csproj.CopyComplete
 D:\Projecten\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.dll
 D:\Projecten\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.pdb
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.deps.json
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.dll
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Repository.pdb
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.dll
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.dll
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Business.Contracts.pdb
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\bin\Debug\netstandard2.0\VendingMachine.Domain.Models.pdb
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csprojAssemblyReference.cache
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.AssemblyInfoInputs.cache
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.AssemblyInfo.cs
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.csproj.CopyComplete
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.dll
+C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Repository\obj\Debug\netstandard2.0\VendingMachine.Repository.pdb

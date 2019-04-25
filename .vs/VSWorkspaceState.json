@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VendingMachine.App"
   ],
+  "SelectedNode": "\\VendingMachine.App\\App.cs",
   "PreviewInSolutionExplorer": false
 }

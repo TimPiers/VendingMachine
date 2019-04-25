@@ -17,7 +17,7 @@ namespace VendingMachine.Repository.Repositories
             {
                 result = context.Set<Product>()
                .AsNoTracking()
-               .OrderByDescending(n => n.Id)
+               .OrderBy(n => n.Id)
                .ToList();
             }
             return result;

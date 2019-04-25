@@ -16,6 +16,8 @@ namespace VendingMachine.App
         [STAThread]
         static void Main()
         {
+            VoorraadService vs = new VoorraadService();
+            vs.GetVoorraadProducts();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new App());

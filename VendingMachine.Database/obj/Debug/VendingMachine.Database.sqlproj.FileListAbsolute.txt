@@ -8,10 +8,6 @@ C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\bin\D
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dll
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.pdb
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.sqlprojAssemblyReference.cache
-C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\Model.xml
-C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\refactor.xml
-C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\postdeploy.sql
-C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\predeploy.sql
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.dll
 C:\Users\Hugo\Source\Repos\TimPiers\VendingMachine\VendingMachine.Database\obj\Debug\VendingMachine.Database.pdb
 D:\Projecten\VendingMachine\VendingMachine.Database\bin\Debug\VendingMachine.Database.dacpac
